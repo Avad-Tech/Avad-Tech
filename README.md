@@ -1,7 +1,7 @@
-# Avad-Tech
+I am a backend-focused developer specializing in PHP and Laravel, with experience building robust, data-driven systems that handle real-world workflows and edge cases.
 
-I build scalable and high-performance web and mobile applications with a strong focus on clean architecture, usability, and real-world problem solving.
+I have developed applications such as a CBT exam and results management system, where I implemented time-based logic, automated grading, and reliable state handling for active sessions. I enjoy solving complex backend problems involving system reliability, background processing, and data flow.
 
-As Avad Tech, I specialize in designing and developing full-stack solutions that are efficient, reliable, and built for growth.
+In addition to backend development, I work with Vue.js, Tailwind CSS, and Flutter to build complete, user-focused applications when needed.
 
-Explore my projects, review the code, and feel free to collaborate—let’s build something impactful together.
+Currently, I am expanding into AI-integrated backend systems and asynchronous processing using queues, aiming to build scalable and intelligent applications.
